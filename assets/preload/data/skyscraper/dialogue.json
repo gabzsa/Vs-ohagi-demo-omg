@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "Ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "sing",
+			"text": "La la la ... (Singing song)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beeep!"
+		},
+		{
+			"sound": "Ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oops, I enjoyed singing this song so much that I didn't notice you."
+		},
+		{
+			"sound": "Ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "So sorry about that!\\nWhat can I do for you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee bop pah sko bop yea."
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\"The song was amazing.\"...?"
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "You were listening to my singing. Thx!\\nI'm so happy you said that."
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I feel a lot better after taking a walk at night. That's why I was singing here."
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "The view here is beautiful, right?\\nThis is my favorite place to be."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bah boo eeh."
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh btw, what's your name?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep po bai!"
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend...?"
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "That's a nice name!\\nI am OHAGI. Nice to meet you!"
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo Boyfriend.\\nWhy don't you sing with me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boo?"
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't usually get to sing with ppl other than my friends. How abt just one song?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Yea bo dai!"
+		},
+		{
+			"sound": "ohagi",
+			"speed": 0.05,
+			"portrait": "Ohagi",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Yayyy thx! Let's get started!"
+		}
+	]
+}
