@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ohagi_C.png">
+<SubTexture name="ohagi_down0000" x="3100" y="950" width="646" height="929" frameX="-49" frameY="-23" frameWidth="751" frameHeight="952" />
+<SubTexture name="ohagi_down0001" x="3100" y="950" width="646" height="929" frameX="-49" frameY="-23" frameWidth="751" frameHeight="952" />
+<SubTexture name="ohagi_down0002" x="3100" y="0" width="653" height="950" frameX="-39" frameY="-2" frameWidth="751" frameHeight="952" />
+<SubTexture name="ohagi_down0003" x="3100" y="0" width="653" height="950" frameX="-39" frameY="-2" frameWidth="751" frameHeight="952" />
+<SubTexture name="ohagi_down0004" x="2044" y="2050" width="659" height="951" frameX="-33" frameY="-1" frameWidth="751" frameHeight="952" />
+<SubTexture name="ohagi_down0005" x="2044" y="2050" width="659" height="951" frameX="-33" frameY="-1" frameWidth="751" frameHeight="952" />
+<SubTexture name="ohagi_idle0000" x="611" y="1027" width="613" height="1019" frameX="-22" frameY="-8" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0001" x="611" y="1027" width="613" height="1019" frameX="-22" frameY="-8" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0002" x="0" y="1027" width="611" height="1023" frameX="-26" frameY="-4" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0003" x="0" y="1027" width="611" height="1023" frameX="-26" frameY="-4" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0004" x="1846" y="0" width="615" height="1025" frameX="-13" frameY="-2" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0005" x="1846" y="0" width="615" height="1025" frameX="-13" frameY="-2" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0006" x="1231" y="0" width="615" height="1026" frameX="-11" frameY="-1" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0007" x="1231" y="0" width="615" height="1026" frameX="-11" frameY="-1" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0008" x="0" y="0" width="616" height="1027" frameX="-10" frameY="0" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0009" x="0" y="0" width="616" height="1027" frameX="-10" frameY="0" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0010" x="616" y="0" width="615" height="1027" frameX="-10" frameY="0" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0011" x="616" y="0" width="615" height="1027" frameX="-10" frameY="0" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0012" x="616" y="0" width="615" height="1027" frameX="-10" frameY="0" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_idle0013" x="616" y="0" width="615" height="1027" frameX="-10" frameY="0" frameWidth="648" frameHeight="1027" />
+<SubTexture name="ohagi_left0000" x="1359" y="2050" width="685" height="972" frameX="-74" frameY="-13" frameWidth="778" frameHeight="985" />
+<SubTexture name="ohagi_left0001" x="1359" y="2050" width="685" height="972" frameX="-74" frameY="-13" frameWidth="778" frameHeight="985" />
+<SubTexture name="ohagi_left0002" x="0" y="2050" width="647" height="983" frameX="-110" frameY="-2" frameWidth="778" frameHeight="985" />
+<SubTexture name="ohagi_left0003" x="0" y="2050" width="647" height="983" frameX="-110" frameY="-2" frameWidth="778" frameHeight="985" />
+<SubTexture name="ohagi_right0000" x="647" y="2050" width="712" height="981" frameX="-36" frameY="-9" frameWidth="748" frameHeight="990" />
+<SubTexture name="ohagi_right0001" x="647" y="2050" width="712" height="981" frameX="-36" frameY="-9" frameWidth="748" frameHeight="990" />
+<SubTexture name="ohagi_right0002" x="2461" y="0" width="639" height="988" frameX="-41" frameY="-2" frameWidth="748" frameHeight="990" />
+<SubTexture name="ohagi_right0003" x="2461" y="0" width="639" height="988" frameX="-41" frameY="-2" frameWidth="748" frameHeight="990" />
+<SubTexture name="ohagi_right0004" x="2461" y="988" width="621" height="988" frameX="-41" frameY="-2" frameWidth="748" frameHeight="990" />
+<SubTexture name="ohagi_right0005" x="2461" y="988" width="621" height="988" frameX="-41" frameY="-2" frameWidth="748" frameHeight="990" />
+<SubTexture name="ohagi_up0000" x="1224" y="1027" width="558" height="1008" frameX="-37" frameY="-21" frameWidth="659" frameHeight="1029" />
+<SubTexture name="ohagi_up0001" x="1224" y="1027" width="558" height="1008" frameX="-37" frameY="-21" frameWidth="659" frameHeight="1029" />
+<SubTexture name="ohagi_up0002" x="1782" y="1027" width="586" height="1000" frameX="-20" frameY="-29" frameWidth="659" frameHeight="1029" />
+<SubTexture name="ohagi_up0003" x="1782" y="1027" width="586" height="1000" frameX="-20" frameY="-29" frameWidth="659" frameHeight="1029" />
+</TextureAtlas>
